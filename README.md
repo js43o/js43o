@@ -9,9 +9,9 @@
     <img src="https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=StyledComponents&logoColor=white"/>
     <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white"/>
     <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=Recoil&logoColor=white"/><br />
-    <h3>Github Stats</h3>
+    <h3>GitHub Stats</h3>
     <img src="https://github-readme-stats.vercel.app/api?username=js43o&show_icons=true"><br />
     <h3>Solved.ac</h3>
-    <img src="http://mazassumnida.wtf/api/generate_badge?boj=js43o" href="https://solved.ac/js43o">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=js43o" />
 </div>
 
