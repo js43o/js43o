@@ -13,7 +13,7 @@
     </div>
     <h3>🎖️Stats</h3>
     <div>
-        <img height=160 src="https://github-readme-stats.vercel.app/api?username=js43o&show_icons=true">
+        <img height=160 src="https://github-readme-stats.vercel.app/api?username=js43o&show_icons=true&theme=radical">
         <img height=160 src="http://mazassumnida.wtf/api/v2/generate_badge?boj=js43o" />
     </div>
 </div>
