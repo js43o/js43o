@@ -8,8 +8,7 @@
         <img src="https://img.shields.io/badge/React-00baff?style=flat-square&logo=React&logoColor=white"/>
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/><br />
         <img src="https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=StyledComponents&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=Recoil&logoColor=white"/><br />
+        <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind-CSS&logoColor=white"/>
     </div>
     <h3>🎖️Stats</h3>
     <div>
